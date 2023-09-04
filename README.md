@@ -14,8 +14,6 @@ From [this PDF file](https://github.com/johnlinp/pdf-to-markdown/blob/master/exa
 
 # Install
 
-Please type
-
     sudo pip install pdf-to-markdown
 
 
